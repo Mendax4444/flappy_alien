@@ -11,3 +11,13 @@ https://itunes.apple.com/us/app/pythonista-3/id1085978097?mt=8
 ## Run
 
 Copy flappy_alien.py and press run button on Pythonista.
+
+## Windows向け計算機
+
+`calculator_windows.py` は Windows で動作するシンプルな電卓アプリです（`tkinter` 使用）。
+
+### 起動方法
+
+```bash
+python calculator_windows.py
+```
